@@ -25,7 +25,7 @@ footer{
 
 .jumbotron {
   text-align: center;
-  background-image: url("../images/Hero-Image.jpg");
+  background-image: url(http://www.conniestewart.me/images/hero_image.jpg);
   color: white;
 } 
  .jumbotron h1 {
