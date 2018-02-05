@@ -25,7 +25,7 @@ footer{
 
 .jumbotron {
   text-align: center;
-  background-image: url('lauraespana.github.io/images/Hero-Image.jpg');
+  background-image: url("../images/hero-image.jpg");
   color: white;
 } 
  .jumbotron h1 {
